@@ -22,6 +22,7 @@ This may be revisited in the future to add the styled elements.
 
 - This project made me feel kind of passionate to the detriment of spending optimal time on it, so I opted for generating descriptions for the dishes using ChatGPT to cut on time. No HTML has been produced using it, just the descriptions.
 - I wanted to try out a workflow for image descriptions and content contributions, so as an extra I learned a bit about ``figure`` and ``figcaption`` tags that are used for images on all three recipe pages.
+- I feel like I am going to sing this course high praises because of how much it lets me do without any hand holding involved whatsoever. This feels like a genuinely awesome exercise, and I see my university HTML/CSS course as well as freeCodeCamp in terms of references here. Much more enjoyable than either of the two so far, and, unlike the former in my case, it actually uses tools relevant in the year of our lord 2023.
 
 
 ## License attribution
