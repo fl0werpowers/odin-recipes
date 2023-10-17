@@ -18,6 +18,12 @@ Everything covered in the HTML Foundations section of the Foundations course. In
 
 This may be revisited in the future to add the styled elements.
 
+## Notes
+
+- This project made me feel kind of passionate to the detriment of spending optimal time on it, so I opted for generating descriptions for the dishes using ChatGPT to cut on time. No HTML has been produced using it, just the descriptions.
+- I wanted to try out a workflow for image descriptions and content contributions, so as an extra I learned a bit about ``figure`` and ``figcaption`` tags that are used for images on all three recipe pages.
+
+
 ## License attribution
 
 Fettuccine Alfredo - Photo by Ragadast, distributed under CC BY-NC 2.0 DEED - https://www.flickr.com/photos/radagast/5361139265
