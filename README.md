@@ -11,7 +11,6 @@ Recipes included:
 - Fettuccine Alfredo
 - Scrambled eggs
 - Butter Chicken
-- My Huel shake
 
 ## Studying subjects covered
 
