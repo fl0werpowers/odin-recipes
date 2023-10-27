@@ -16,7 +16,7 @@ Recipes included:
 
 Everything covered in the HTML Foundations section of the Foundations course. In practice this covers all the necessary basics required to build a web page from scratch. 
 
-This may be revisited in the future to add the styled elements.
+This webpage is being modified as I further commit myself to the Odin Project, especially as going through the CSS course.
 
 ## Notes
 
