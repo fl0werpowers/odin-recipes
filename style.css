@@ -7,6 +7,10 @@ h6 {
     font-family: Georgia, 'Times New Roman', Times, serif
 }
 
+a {
+    color: rgb(7, 73, 7);
+}
+
 body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
