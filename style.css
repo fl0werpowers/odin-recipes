@@ -32,6 +32,16 @@ body {
     margin: 0 auto;
 }
 
+figure img {
+    display: block;
+    margin: 8px auto;
+}
+
+figcaption {
+    text-align: center;
+    font-size: 14px;
+}
+
 #recipes {
     display: flex;
     list-style: none;
